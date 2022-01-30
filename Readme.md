@@ -17,8 +17,7 @@ Pomoc https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Agglomer
 8. Wykonać te same eksperymenty co w pkt 1 do 5 dla par 'Health/Dental', 'Other Benefits'
 
 # Zadanie na ocenę 4.0 (wykonać zadania na ocenę 3.5)
-Na podstawie przykładu https://realpython.com/k-means-clustering-python/
-9. Wygenerować zbiór złożony z 1000 przykładów, 5 centrów, standardowym odchyleniem 2.5
+9. Na podstawie przykładu https://realpython.com/k-means-clustering-python/ Wygenerować zbiór złożony z 1000 przykładów, 5 centrów, standardowym odchyleniem 2.5
 10. Wyskalować dane używając StandardScaler()
 11. Zainicjiować klasteryzację KMeans dla 5 klastrów
 12. Wykonać wykres współczynnika SSE (Sekcja 'Choosing the Appropriate Number of Clusters')
@@ -31,14 +30,14 @@ Na podstawie przykładu https://realpython.com/k-means-clustering-python/
 
 # Zadanie na ocenę 5.0 (wykonać zadania na ocenę 4.5)
 
-Na podstawie danych z https://raw.githubusercontent.com/palles77/MachineLearning_Exercise4/main/Employee_Compensation_SF.cs
-wybrać losowo 10000. Jako klasy badanej użyć kolumny 'O
-16. Przeprowadzić minimalizację SVD dla klas zdefiniowanych w kolumnie 'Job'. 
-17. Przeprowadzić minimalizację CUR dla klas zdefiniowanych w kolumnie 'Job'. 
-18. Pokazać wykres dla pierwszych dwóch najważniejszych par cech dla SVD. Jakie to cechy?
-19. Pokazać wykres dla pierwszych dwóch najważniejszych par cech dla CUR. Jakie to cechy?
-20. Pokazać wykres dla drugiej pary najważniejszych par cech dla SVD. Jakie to cechy?
-21. Pokazać wykres dla drugiej pary najważniejszych par cech dla CUR. Jakie to cechy?
+16. Na podstawie danych z https://raw.githubusercontent.com/palles77/MachineLearning_Exercise4/main/Employee_Compensation_SF.cs
+wybrać losowo 10000 rekordów. 
+17. Przeprowadzić minimalizację SVD dla klas zdefiniowanych w kolumnie 'Job'. 
+18. Przeprowadzić minimalizację CUR dla klas zdefiniowanych w kolumnie 'Job'. 
+19. Pokazać wykres dla pierwszych dwóch najważniejszych par cech dla SVD. Jakie to cechy?
+20. Pokazać wykres dla pierwszych dwóch najważniejszych par cech dla CUR. Jakie to cechy?
+21. Pokazać wykres dla drugiej pary najważniejszych par cech dla SVD. Jakie to cechy?
+22. Pokazać wykres dla drugiej pary najważniejszych par cech dla CUR. Jakie to cechy?
 
 Wskazówka: Przykład przeprowadzenia prowadzenia minimalizacji SVD oraz CUR jest w pliku 'dimensionality_reduction.ipynb'
 
