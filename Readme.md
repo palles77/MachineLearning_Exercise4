@@ -30,7 +30,7 @@ Pomoc https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Agglomer
 
 # Zadanie na ocenę 5.0 (wykonać zadania na ocenę 4.5)
 
-16. Na podstawie danych z https://raw.githubusercontent.com/palles77/MachineLearning_Exercise4/main/Employee_Compensation_SF.cs
+16. Na podstawie danych z https://raw.githubusercontent.com/palles77/MachineLearning_Exercise4/main/Employee_Compensation_SF.csv
 wybrać losowo 10000 rekordów. 
 17. Przeprowadzić minimalizację SVD dla klas zdefiniowanych w kolumnie 'Job'. 
 18. Przeprowadzić minimalizację CUR dla klas zdefiniowanych w kolumnie 'Job'. 
